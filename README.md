@@ -1,8 +1,8 @@
-👋 Hey there, I’m Dave (@davedonnellydev)
-🌈 I'm a queer boy (he/him) learning to code
-🧑‍🎓 Completed Software Engineering Intensive at General Assembly (May-Oct '22)
-🤓 Rebuilding dev skills after some time away with the aim to get a job in April 2025
-📫 Feel free to email me at davepauldonnelly@gmail.com
+- 👋 Hey there, I’m Dave (@davedonnellydev)
+- 🌈 I'm a queer boy (he/him) learning to code
+- 🧑‍🎓 Completed Software Engineering Intensive at General Assembly (May-Oct '22)
+- 🤓 Rebuilding dev skills after some time away with the aim to get a job in April 2025
+- 📫 Feel free to email me at davepauldonnelly@gmail.com
 
 <!--
 **davedonnellydev/davedonnellydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
