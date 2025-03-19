@@ -2,7 +2,9 @@
 - 🌈 I'm a queer boy (he/him) learning to code
 - 🧑‍🎓 Completed Software Engineering Intensive at General Assembly (May-Oct '22)
 - 🤓 Rebuilding dev skills after some time away with the aim to get a job in April 2025
-- 📫 Feel free to email me at davepauldonnelly@gmail.com
+- 💼 Find me at [davedonnelly.dev](https://davedonnelly.dev/)
+- 👔 or on LinkedIn at [linkedin.com/in/david-donnelly-dev/](https://www.linkedin.com/in/david-donnelly-dev/)
+- 📫 or feel free to email me at [davepauldonnelly@gmail.com](mailto:davepauldonnelly@gmail.com)
 
 <!--
 **davedonnellydev/davedonnellydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
