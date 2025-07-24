@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Dave (@davedonnellydev)
-- 🌈 I'm a queer boy (he/him) learning to code
+- 🌈 I'm a Sydney-based queer guy (he/him) in tech
 - 🧑‍🎓 Completed Software Engineering Intensive at General Assembly (May-Oct '22)
-- 🤓 Rebuilding dev skills after some time away with the aim to get a job in April 2025
+- 👀 Currently looking for work as a frontend engineer
 - 💼 Find me at [davedonnelly.dev](https://davedonnelly.dev/)
 - 👔 or on LinkedIn at [linkedin.com/in/david-donnelly-dev/](https://www.linkedin.com/in/david-donnelly-dev/)
 - 📫 or feel free to email me at [davepauldonnelly@gmail.com](mailto:davepauldonnelly@gmail.com)
